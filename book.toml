@@ -2,7 +2,6 @@
 title = "Study mdBook"
 authors = ["kkAyataka"]
 language = "ja"
-multilingual = false
 src = "docs"
 
 [preprocessor.mermaid]
